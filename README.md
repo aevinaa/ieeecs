@@ -1,5 +1,6 @@
 # ieeecs
 # 🎓 Intelligent Campus Assistant (LLM + RAG + Agentic AI)
+# Google Colab Link - https://colab.research.google.com/drive/1M8HlN9tMNGz-Ys8DKag0qE2pATM-LFGK?usp=sharing
 
 ## 📌 Objective
 To build an intelligent AI assistant that helps students navigate campus life by answering questions related to rules, schedules, facilities, and general queries using modern AI techniques.
