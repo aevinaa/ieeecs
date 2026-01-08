@@ -50,7 +50,7 @@ User Query → Vector Search → Context → LLM → Answer
 ---
 
 ## 🚀 How to Run
-1. Open the notebook in Jupyter
+1. Open the notebook via Link Provided
 2. Install dependencies
 3. Run all cells sequentially
 
