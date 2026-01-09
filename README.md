@@ -1,5 +1,72 @@
 # ieeecs
-# 🎓 Intelligent Campus Assistant (LLM + RAG + Agentic AI)
+# 🤖 AI/ML Assignments Portfolio
+
+This repository contains solutions to two AI/ML tasks, demonstrating skills across:
+- Data analysis & classical machine learning
+- Deep learning & explainability
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI system design
+
+Each task is structured in progressive levels to show both conceptual understanding and practical implementation.
+
+---
+
+## 📌 TASK 1: Customer Churn Prediction (AI/ML)
+### Google Colab Link - https://colab.research.google.com/drive/1v6lRMwhnRu0oe3eEqA34qIo-SVjzADxq?usp=sharing
+
+### 🎯 Objective
+To analyze customer churn data, build predictive models, and explain the key factors influencing churn using classical machine learning and neural networks.
+
+---
+
+### 🧩 Level 1: Data Understanding & Exploratory Data Analysis (EDA)
+**Goals:**
+- Load and clean the dataset
+- Handle missing values and data types
+- Explore relationships between churn and key features
+
+**Techniques:**
+- Pandas, NumPy
+- Matplotlib / Seaborn
+- Descriptive statistics & visualizations
+
+**Outputs:**
+- Cleaned dataset
+- EDA plots showing churn patterns across features like tenure, contract type, etc.
+
+---
+
+### 🧩 Level 2: Classical Machine Learning
+**Models Implemented:**
+- Logistic Regression
+- Random Forest
+- Support Vector Machine (SVM)
+
+**Evaluation Metrics:**
+- Accuracy
+- Precision
+- Recall
+- F1-score
+
+**Analysis:**
+- Comparison of model performance
+- Identification of most influential features driving churn
+
+---
+
+### 🧩 Level 3: Neural Networks & Advanced Modeling
+**Approach:**
+- Implement a Neural Network classifier
+- Benchmark performance against classical ML models
+- Analyze strengths and limitations
+
+**Explainability:**
+- Use SHAP (or similar methods) to interpret model predictions
+- Visualize feature contributions
+
+
+## 📌 TASK 2: 🎓 Intelligent Campus Assistant (LLM + RAG + Agentic AI)
 #### Google Colab Link - https://colab.research.google.com/drive/1M8HlN9tMNGz-Ys8DKag0qE2pATM-LFGK?usp=sharing
 
 ## 📌 Objective
