@@ -1,4 +1,4 @@
-# ieeecs
+# Customer Churn Prediction and Campus Assistant
 # 🤖 AI/ML Assignments Portfolio
 
 This repository contains solutions to two AI/ML tasks, demonstrating skills across:
